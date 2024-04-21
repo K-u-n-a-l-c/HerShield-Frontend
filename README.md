@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+# HerShield
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Our application is designed to provide a safe and secure platform for reporting incidents, accessing legal resources and support, and pursuing legal action with the help of our virtual chat assistant, Sakhi. Here are the key features of our application:
 
-## Available Scripts
+## Secure Web Portal and Mobile App
+Our platform includes both a web portal and a mobile app, ensuring that users can easily access our services from anywhere, at any time. We prioritize security and ensure that all data is encrypted and stored safely.
 
-In the project directory, you can run:
+## Simplified Reporting Process
+We have streamlined the reporting process, making it easy for users to report incidents without any confusion or complications.
 
-### `npm start`
+## Support and Legal Resources
+Our platform provides users with access to a range of support and legal resources, ensuring that victims have the information and tools they need to take action and protect themselves.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Sakhi Virtual Chat Assistant
+Sakhi is our virtual chat assistant who can help users pursue legal action, providing guidance and support throughout the process.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## SOS Emergency Rescue
+Our platform includes an SOS feature that can be accessed both online and offline, ensuring that users can quickly call for help in the event of an emergency.
 
-### `npm test`
+## Smart Mapping Navigation System
+Our platform includes a smart mapping navigation system that can help users locate the nearest police stations in case of an emergency.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Online Community Forums
+Our online community forums allow users to provide support to each other, share resources, and connect with others who have similar experiences.
 
-### `npm run build`
+## E-Learning Safety Awareness
+Our platform includes e-learning modules that can help users learn about safety awareness, empowering them with the knowledge and tools they need to stay safe.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Cautious Mode(Future Implementation)
+Our platform includes a cautious mode feature that notifies emergency contacts about low battery and the user's last location. It also records the user's voice after 3 minutes for 1 minute and checks for a safe button response. If there is no response from the user within 1 minute, it will automatically trigger an SOS alert and inform the police and emergency contacts.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+We are committed to providing a safe and secure platform for our users, and we are continuously working to improve our services and expand our resources. If you have any questions or feedback, please do not hesitate to contact us.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Tech Stack
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+For Web
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**Client:** React, Redux, MaterialUI
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+For Mobile App
 
-## Learn More
+**Client:** Flutter, Dart
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+For Backend
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Server:** Node, Express
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## Contributors Github Profile
+[KUNAL](https://github.com/K-u-n-a-l-c)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+[HIMANSHU](https://github.com/himanishu-2512)
 
-### Making a Progressive Web App
+[SOURISH](https://github.com/SourishBiswas23/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+## Github Repos.  Link for Source Code
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+[BACKEND](https://github.com/himanishu-2512/HerShield-Backend)
 
-### Deployment
+[FRONTEND](https://github.com/K-u-n-a-l-c/HerShield-Frontend)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+[MOBILE APP](https://github.com/SourishBiswas23/her_shield)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
